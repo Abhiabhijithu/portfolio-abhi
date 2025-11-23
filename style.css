@@ -65,3 +65,26 @@ font-weight: bold;
 .socials a:hover {
 background: gray;
 }
+.project-card {
+background: white;
+padding: 20px;
+margin: 15px;
+border-radius: 10px;
+text-align: center;
+box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.project-card a {
+text-decoration: none;
+display: inline-block;
+margin-top: 10px;
+padding: 8px 14px;
+background: black;
+color: white;
+border-radius: 6px;
+font-weight: bold;
+}
+
+.project-card a:hover {
+background: gray;
+}
