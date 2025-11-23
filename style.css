@@ -39,3 +39,15 @@ color: #fff;
 padding: 10px;
 margin-top: 20px;
 }
+.projects, .socials {
+background: white;
+margin: 20px;
+padding: 20px;
+border-radius: 10px;
+}
+
+.socials a {
+text-decoration: none;
+padding: 10px;
+font-weight: bold;
+}
