@@ -88,3 +88,18 @@ font-weight: bold;
 .project-card a:hover {
 background: gray;
 }
+@media (max-width : 600 px){
+  section{
+    margin : 10px;
+    padding :15px
+  }
+  .project-card{
+    margin : 10px 0 ;
+  }
+  header h1 {
+    font-size : 22px;
+  }
+  header p {
+    font-size :14px;
+  }
+}
